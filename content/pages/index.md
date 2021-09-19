@@ -20,7 +20,7 @@ sections:
     title: Socials
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/225132.png
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
