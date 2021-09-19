@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: Blending RE || RT || OSINT
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
