@@ -5,7 +5,6 @@ sections:
     title: Intelligence Operators Handbook
     subtitle: 'Blending RE, RT and OSINT.'
     actions: []
-    image: /images/x.jpeg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
