@@ -13,7 +13,7 @@ sections:
     background_color: none
     background_image: /images/black_background.png
     background_image_position: center top
-    background_image_size: auto
+    background_image_size: cover
     background_image_opacity: 100
     image: /images/pexels-sebastiaan-stam-1304642-cbd9dfb5.jpg
   - type: features_section
