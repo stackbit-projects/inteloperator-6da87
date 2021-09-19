@@ -17,7 +17,7 @@ image: /images/3SDgmYs73L95a1e13d-2ae0-4ba4-812e-eb8d9c53a63d-1632040289.png
 ---
 ### So I always get these questions.
 
-> TLDR; These are the manual process that all can be automated and for me they all are.
+> TLDR; These are the manual process that all can be automated and for me they are.
 
 I'm always asked what and how I use the browser for my OSINT operations, so within this blog I will explain most of my processes. This should enable you to gain an insight into my processes and how I used them effectively.
 
