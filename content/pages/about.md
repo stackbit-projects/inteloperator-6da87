@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Some random crap in here about stuff that no one read about or cares about; So here are some stock images of people looking like they are working.
+Some random crap in here about stuff that no one read about or cares about; So here is a stock image of people looking like they are working.
 
 ![](/images/team.jpg)
 
