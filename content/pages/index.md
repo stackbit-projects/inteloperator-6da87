@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: Blending RE || RT || OSINT
     subtitle: Celebrating daily wins with YourGoal.
-    actions:
-      - label: Try for free
-        url: /pricing
-        style: primary
+    actions: []
     image: /images/34830.gif
     image_alt: Hero section placeholder image
     media_position: bottom
