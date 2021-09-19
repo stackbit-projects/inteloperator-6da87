@@ -31,3 +31,6 @@ The main points I will cover are:
 *   Infrastructure collection; and
 
 *   Breached data collection.
+
+![](/images/rjXk0YNCSac03c3d60-7221-4700-b7d2-6052ee04e4b4-1632040729.png)
+
