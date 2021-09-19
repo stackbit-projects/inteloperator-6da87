@@ -27,17 +27,8 @@ sections:
         media_width: thirty-three
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Main site: <https://inteloperator.dev>
         actions: []
         image_alt: lorem-ipsum
         media_position: top
