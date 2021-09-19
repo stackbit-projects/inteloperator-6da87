@@ -21,6 +21,8 @@ sections:
       - image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
+        content: |
+          I hope you enjoy your stay!
     feature_padding_vert: small
     background_color: none
 seo:
