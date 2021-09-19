@@ -3,7 +3,7 @@ title: The browsers best friend == you
 date: '2021-09-19'
 categories: []
 tags: []
-excerpt: Is you!
+excerpt: Lets go!
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
