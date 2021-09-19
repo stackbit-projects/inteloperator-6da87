@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2021-09-19'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: Is you!
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
