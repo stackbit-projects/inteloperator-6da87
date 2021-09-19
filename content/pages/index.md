@@ -22,7 +22,6 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
-        title: s
     feature_padding_vert: small
     background_color: none
 seo:
