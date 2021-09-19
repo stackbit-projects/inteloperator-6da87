@@ -14,7 +14,7 @@ sections:
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 100
-    image: /images/pexels-thirdman-5981928.jpg
+    image: /images/x.jpeg
   - type: features_section
     features:
       - image_alt: Ursula Gurnmeister photo
