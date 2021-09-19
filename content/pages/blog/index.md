@@ -7,15 +7,6 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: >
-      ![](/images/cf1.gif)
-
-
-
-
-      My previous content: [Medium](https://inteloperator.medium.com/),
-      [Substack](https://inteloperator.substack.com/) and
-      [Twitter](https://twitter.com/Grotezinfosec)
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
