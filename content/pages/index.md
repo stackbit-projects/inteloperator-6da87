@@ -18,8 +18,7 @@ sections:
     background_image_opacity: 100
   - type: features_section
     features:
-      - subtitle: Alvin Toffler
-        image_alt: Ursula Gurnmeister photo
+      - image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
