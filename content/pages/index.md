@@ -15,6 +15,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 100
+    image: /images/pexels-sebastiaan-stam-1304642-cbd9dfb5.jpg
   - type: features_section
     features:
       - image_alt: Ursula Gurnmeister photo
