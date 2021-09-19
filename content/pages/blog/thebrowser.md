@@ -14,6 +14,7 @@ seo:
   robots: []
   extra: []
 layout: post
+image: /images/3SDgmYs73L95a1e13d-2ae0-4ba4-812e-eb8d9c53a63d-1632040289.png
 ---
 ## Lorem ipsum
 
