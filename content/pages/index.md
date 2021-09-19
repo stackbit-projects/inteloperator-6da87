@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Blending RE || RT || OSINT
+    title: Intelligence Operators Handbook
     subtitle: Celebrating daily wins with YourGoal.
     actions: []
     image: /images/34830.gif
