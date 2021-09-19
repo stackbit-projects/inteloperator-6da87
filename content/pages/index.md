@@ -23,15 +23,7 @@ sections:
       - image: /images/1225132.png
         image_alt: Logo 1
         image_align: center
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
+        actions: []
       - image: /images/14188693.png
         image_alt: Logo 2
         image_align: center
