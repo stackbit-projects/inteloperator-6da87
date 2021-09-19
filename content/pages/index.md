@@ -29,20 +29,6 @@ sections:
       - image: /images/1ba81cfff-7bc5-4aef-866e-864d0942c42d_1000x1000.png
         image_alt: Logo 3
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: |
-          *
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
