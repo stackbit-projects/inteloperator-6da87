@@ -25,8 +25,13 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
-      - content: |
-          Main site: <https://inteloperator.dev>
+      - content: |+
+          Main site: [https://inteloperator.dev](https://inteloperator.devBlog:)
+
+          Blog: 
+
+
+
         actions: []
         image_alt: lorem-ipsum
         media_position: top
