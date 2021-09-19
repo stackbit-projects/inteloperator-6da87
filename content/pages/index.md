@@ -14,7 +14,7 @@ sections:
     background_color: none
     background_image: /images/cyberpunk-landscape-wallpaper.jpg
     background_image_position: center top
-    background_image_size: contain
+    background_image_size: cover
     background_image_opacity: 60
   - type: features_section
     features:
