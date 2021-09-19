@@ -38,25 +38,22 @@ The first image below is a snippet of all the extensions I run within MS edge, a
 
 ![](/images/rjXk0YNCSac03c3d60-7221-4700-b7d2-6052ee04e4b4-1632040729.png)
 
-
-
 #### Email Collection
 
-
-
-
+TBA
 
 #### Phone Collection
 
+TBA
 
+#### Name/user/handle/alias collection
 
-#### Name/user/handle/alias collection&#xA;&#xA;
+TBA
 
+#### Infrastructure collection
 
+TBA
 
-#### Infrastructure collection&#xA;&#xA;
+#### Breached data collection
 
-
-
-Breached data collection
-
+TBA
