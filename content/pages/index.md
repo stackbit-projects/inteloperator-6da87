@@ -18,10 +18,7 @@ sections:
     background_image_opacity: 100
   - type: features_section
     features:
-      - title: >-
-          You can use all the quantitative data you can get, but you still have
-          to distrust it and use your own intelligence and judgment.
-        subtitle: Alvin Toffler
+      - subtitle: Alvin Toffler
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
