@@ -40,7 +40,7 @@ sections:
       - title: >-
           You can use all the quantitative data you can get, but you still have
           to distrust it and use your own intelligence and judgment.
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        subtitle: Alvin Toffler
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
