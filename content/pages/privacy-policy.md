@@ -21,4 +21,4 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-You have no privacy, it's the internet. GGWP
+You have no privacy, it's the internet. GGWP.
