@@ -26,7 +26,7 @@ sections:
       - image: /images/14188693.png
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/1ba81cfff-7bc5-4aef-866e-864d0942c42d_1000x1000.png
         image_alt: Logo 3
         image_align: center
     grid_cols: three
