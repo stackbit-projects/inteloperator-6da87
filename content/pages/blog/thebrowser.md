@@ -16,7 +16,9 @@ seo:
 layout: post
 image: /images/3SDgmYs73L95a1e13d-2ae0-4ba4-812e-eb8d9c53a63d-1632040289.png
 ---
-## So I always get these questions.
+### So I always get these questions.
+
+> TLDR; These are the manual process that all can be automated and for me they all are.
 
 I'm always asked what and how I use the browser for my OSINT operations, so within this blog I will explain most of my processes. This should enable you to gain an insight into my processes and how I used them effectively.
 
@@ -32,5 +34,29 @@ The main points I will cover are:
 
 *   Breached data collection.
 
+The first image below is a snippet of all the extensions I run within MS edge, and ill explain them in greater detail later.
+
 ![](/images/rjXk0YNCSac03c3d60-7221-4700-b7d2-6052ee04e4b4-1632040729.png)
+
+
+
+#### Email Collection
+
+
+
+
+
+#### Phone Collection
+
+
+
+#### Name/user/handle/alias collection&#xA;&#xA;
+
+
+
+#### Infrastructure collection&#xA;&#xA;
+
+
+
+Breached data collection
 
