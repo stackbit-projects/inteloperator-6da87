@@ -16,9 +16,18 @@ seo:
 layout: post
 image: /images/3SDgmYs73L95a1e13d-2ae0-4ba4-812e-eb8d9c53a63d-1632040289.png
 ---
-## Lorem ipsum
+## So I always get these questions.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I'm always asked what and how I use the browser for my OSINT operations, so within this blog I will explain most of my processes. This should enable you to gain an insight into my processes and how I used them effectively.
 
-- Lorem ipsum
-- dolor sit amet
+The main points I will cover are:
+
+*   Email collection
+
+*   Phone collection
+
+*   Name/user/handle/alias collection
+
+*   Infrastructure collection; and
+
+*   Breached data collection.
