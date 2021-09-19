@@ -20,7 +20,6 @@
         ]
     },
     "footer": {
-        "logo": "images/logo.svg",
         "logo_alt": "Startup logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
