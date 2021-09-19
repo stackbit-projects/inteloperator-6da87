@@ -1,6 +1,6 @@
 ---
 title: Previous Content
-subtitle: lorem-ipsum
+subtitle: Enjoy
 date: '2021-09-19'
 categories: []
 tags: []
