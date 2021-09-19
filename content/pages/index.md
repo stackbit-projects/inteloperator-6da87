@@ -25,8 +25,7 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: |
           Main site: <https://inteloperator.dev>
         actions: []
