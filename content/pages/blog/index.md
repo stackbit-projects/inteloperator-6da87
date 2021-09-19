@@ -30,7 +30,6 @@ sections:
     has_border: true
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
