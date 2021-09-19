@@ -23,6 +23,8 @@ I'm always asked what and how I use the browser for my OSINT operations, so with
 
 The main points I will cover are:
 
+*   Information storage
+
 *   Email collection
 
 *   Phone collection
@@ -36,6 +38,10 @@ The main points I will cover are:
 The first image below is a snippet of all the extensions I run within MS edge, and ill explain them in greater detail later.
 
 ![](/images/rjXk0YNCSac03c3d60-7221-4700-b7d2-6052ee04e4b4-1632040729.png)
+
+#### Information storage
+
+TBA
 
 #### Email Collection
 
