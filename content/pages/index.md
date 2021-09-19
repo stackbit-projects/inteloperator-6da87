@@ -21,8 +21,16 @@ sections:
       - image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
-        content: |
+        content: >
           I hope you enjoy your stay!
+
+
+          *   Current [blog](https://inteloperator-6da87.netlify.app/blog/) 
+
+
+          *   My previous content: [Medium](https://inteloperator.medium.com/),
+          [Substack](https://inteloperator.substack.com/) and
+          [Twitter](https://twitter.com/Grotezinfosec)
     feature_padding_vert: small
     background_color: none
 seo:
