@@ -16,24 +16,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - type: grid_section
-    title: Socials
-    align: center
-    grid_items:
-      - image_alt: Logo 1
-        image_align: center
-        actions: []
-      - image_alt: Logo 2
-        image_align: center
-      - image: /images/1ba81cfff-7bc5-4aef-866e-864d0942c42d_1000x1000.png
-        image_alt: Logo 3
-        image_align: center
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    padding_top: small
-    padding_bottom: medium
-    background_color: none
   - type: features_section
     features:
       - title: >-
