@@ -8,6 +8,8 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
+    content: |
+      sdad
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
