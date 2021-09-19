@@ -1,6 +1,6 @@
 ---
 title: The browsers best friend
-subtitle: lorem-ipsum
+subtitle: Is you!
 date: '2021-09-19'
 categories: []
 tags: []
