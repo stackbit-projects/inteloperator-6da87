@@ -22,15 +22,15 @@ sections:
         media_position: left
         media_width: thirty-three
         content: >
-          I hope you enjoy your stay!
+          > I hope you enjoy your stay!
 
 
-          *   Current [blog](https://inteloperator-6da87.netlify.app/blog/) 
+          *   Current [blog](https://inteloperator-6da87.netlify.app/blog/); and
 
 
           *   My previous content: [Medium](https://inteloperator.medium.com/),
           [Substack](https://inteloperator.substack.com/) and
-          [Twitter](https://twitter.com/Grotezinfosec)
+          [Twitter](https://twitter.com/Grotezinfosec).
     feature_padding_vert: small
     background_color: none
 seo:
