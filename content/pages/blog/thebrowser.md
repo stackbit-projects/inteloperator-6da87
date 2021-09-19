@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The browsers best friend
 subtitle: lorem-ipsum
 date: '2021-09-19'
 categories: []
