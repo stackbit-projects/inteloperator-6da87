@@ -11,7 +11,6 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: none
-    background_image: /images/black_background.png
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 100
