@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: none
-    background_image: /images/pexels-photo-8347499.jpeg
+    background_image: /images/cyberpunk-landscape-wallpaper.jpg
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
