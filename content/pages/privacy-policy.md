@@ -22,3 +22,7 @@ seo:
 layout: page
 ---
 You have no privacy, it's the internet. GGWP.
+
+
+
+![](/images/giphy.gif)
