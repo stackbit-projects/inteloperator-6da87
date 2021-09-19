@@ -29,7 +29,6 @@ sections:
     padding_bottom: large
     has_border: true
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
