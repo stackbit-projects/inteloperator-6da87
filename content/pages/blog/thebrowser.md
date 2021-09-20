@@ -83,9 +83,11 @@ The above image is an example osint comment within my Jira to ensure all data po
 
 ![](/images/cApyH7AEie83139edb-202d-4bb7-ac70-eb46eab6beac-1632117092.png)
 
+Just before we finish up with the Twitter images and base analysis, if we run my tool  "[metaextract](https://gitlab.com/interdiction\_/upgraded-goggles)" against the downloaded data we can see that all the data is JPEG. From experience, this leans towards most of the imagery being either copied or reused. The reasoning behind this is that people that create original data usually upload in PNG format as it's the default standard. Now saying that its not 100% conclusive but it gives you an idea of how tech-savvy the person is and what content they create or post.
 
+![](/images/AjoGa7Fj0V30edc9b5-d842-474e-9619-b8d67628a637-1632117382.png)
 
-Searching
+##### Searching
 
 tba
 
