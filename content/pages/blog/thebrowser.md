@@ -83,7 +83,7 @@ The above image is an example osint comment within my Jira to ensure all data po
 
 ![](/images/cApyH7AEie83139edb-202d-4bb7-ac70-eb46eab6beac-1632117092.png)
 
-Just before we finish up with the Twitter images and base analysis, if we run my tool  "[metaextract](https://gitlab.com/interdiction\_/upgraded-goggles)" against the downloaded data we can see that all the data is JPEG. From experience, this leans towards most of the imagery being either copied or reused. The reasoning behind this is that people that create original data usually upload in PNG format as it's the default standard. Now saying that its not 100% conclusive but it gives you an idea of how tech-savvy the person is and what content they create or post. 
+Just before we finish up with the Twitter images and base analysis, if we run my tool  "[metaextract](https://gitlab.com/interdiction\_/upgraded-goggles)" against the downloaded data we can see that all the data is JPEG. From experience, this leans towards most of the imagery being either copied or reused. The reasoning behind this is that people that create original data usually upload in PNG format as it's the default standard. Now saying that its not 100% conclusive but it gives you an idea of how tech-savvy the person is and what content they create or post.
 
 > FYI: Twitter removes metadata on upload, hence me not extracting the full indicators of association's (IOA)
 
@@ -93,8 +93,12 @@ Just before we finish up with the Twitter images and base analysis, if we run my
 
 ##### Searching
 
-tba
+This is where you will find all your data. This components output quality is based on how good you built your tagging on the collection and ensuring that all the data you entered in your relevant system (Jira) is correctly defined. I use a multi-search tool "searchcenter" to automate most of these searches. Examples below.
 
-##### Relevance
+![](/images/3Sn85miPDsb7af8a99-bd76-45bf-acab-daf89249827a-1632118390.png)
 
-tba
+![](/images/Ng5xU8YcJUc6fca88a-33cd-4d1d-bee5-f84e34025948-1632118469.png)
+
+
+
+> I hope you got some value from this post and it can enable you to collect in a cyclic more efficient manner.
