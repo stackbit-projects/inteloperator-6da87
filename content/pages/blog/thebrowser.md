@@ -81,6 +81,8 @@ I used a regex for Twitter hash-tags to visually highlight points of interest fr
 
 The above image is an example osint comment within my Jira to ensure all data points are correctly tagged. Furthermore, the below image is an example tagging rule (which I have a lot) that enables me to search over the vast osint sources I have previously completed.
 
+![](/images/cApyH7AEie83139edb-202d-4bb7-ac70-eb46eab6beac-1632117092.png)
+
 
 
 Searching
