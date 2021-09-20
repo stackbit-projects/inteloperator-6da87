@@ -57,6 +57,20 @@ When I'm collecting OSINT I will full text save the page which contains the data
 
 This enables me to search at a later time, key fields "if i cant remember the specifics". Furthermore, to that point, I will extract the key fields into my Jira instance (which has auto-tagging rules, ill get to this later) and start building a dossier on the target in question. Images below are some examples.
 
+![](/images/bwzMBQJQvYfafaf573-9300-40b7-b140-887b90266624-1632097066-da8fc61f.png)
+
+![](/images/55h1NxiTT758783663-1713-4d00-a1f9-2964ced99d44-1632101920-4e54d7b2.png)
+
+![](/images/vYaogCv4y62ce2dabd-4537-4756-8acf-47810fdfa826-1632114811.png)
+
+![](/images/RQtHM0zSMo22ba1d35-39ea-4771-a906-071a4a686176-1632114717.png)
+
+
+
+
+
+
+
 ##### Searching
 
 tba
