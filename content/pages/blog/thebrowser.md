@@ -59,19 +59,31 @@ This enables me to search at a later time, key fields "if i cant remember the sp
 
 ![](/images/bwzMBQJQvYfafaf573-9300-40b7-b140-887b90266624-1632097066-da8fc61f.png)
 
+The above image is me storing this OSINT data with relevant tagging within raindrop for later analysis and parsing. Another good idea is to use the wayback machine archive function for redundancy.
+
 ![](/images/55h1NxiTT758783663-1713-4d00-a1f9-2964ced99d44-1632101920-4e54d7b2.png)
+
+Then I did a quick TinEye reverse image search and also saved and tagged all references.
 
 ![](/images/vYaogCv4y62ce2dabd-4537-4756-8acf-47810fdfa826-1632114811.png)
 
+Then I double-checked that the data was full-text indexed and it was, love it!
+
 ![](/images/RQtHM0zSMo22ba1d35-39ea-4771-a906-071a4a686176-1632114717.png)
 
+I then scraped all the user's images and videos to give me an understanding of the persons life and online persona.
+
+![](/images/KXsMC86veZ00da81b8-a0de-4ab7-8eb1-f89a7ec933c3-1632115882.png)
+
+I used a regex for Twitter hash-tags to visually highlight points of interest from the exported CSV twitter scrape.
+
+![](/images/ou16MMUV8idfdb6f54-a64d-47d0-b566-89bee0918b49-1632116465.png)
+
+The above image is an example osint comment within my Jira to ensure all data points are correctly tagged. Furthermore, the below image is an example tagging rule (which I have a lot) that enables me to search over the vast osint sources I have previously completed.
 
 
 
-
-
-
-##### Searching
+Searching
 
 tba
 
