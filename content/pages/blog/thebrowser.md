@@ -49,7 +49,7 @@ The main goal of OSINT collection and storage, is having the ability to have a r
 
 In one of my previous posts [\[Operators handbook\]](https://inteloperator.medium.com/operational-intelligence-handbook-4e5f0538cfb), I detail these steps in an overall view, but here I will elaborate on it. Have the mindset that each artefact that you collect can be reinvested into the next search/lookup and continually in a cyclic form.
 
-For example, you search for a "handle", that handle returns an email, then we search that email, which returns more results, then we search the email and handle and so on and so forth.
+For example, your search for a "handle", that handle returns an email, then we search that email, which returns more results, then we search the email and handle and so on and so forth.
 
 ![](/images/1\_CXL5Ersq1gHztPK44sVCKw.png)
 
@@ -95,10 +95,10 @@ Just before we finish up with the Twitter images and base analysis, if we run my
 
 This is where you will find all your data. This components output quality is based on how good you built your tagging on the collection and ensuring that all the data you entered in your relevant system (Jira) is correctly defined. I use a multi-search tool "searchcenter" to automate most of these searches. Examples below.
 
+![](/images/TN6t2IeBUOff65c37a-cf63-4e0c-a68e-023fd085146e-1632118774.png)
+
 ![](/images/3Sn85miPDsb7af8a99-bd76-45bf-acab-daf89249827a-1632118390.png)
 
 ![](/images/Ng5xU8YcJUc6fca88a-33cd-4d1d-bee5-f84e34025948-1632118469.png)
-
-
 
 > I hope you got some value from this post and it can enable you to collect in a cyclic more efficient manner.
