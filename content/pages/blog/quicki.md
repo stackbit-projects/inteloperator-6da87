@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: OSINT Quicki
 subtitle: lorem-ipsum
 date: '2021-09-28'
 categories: []
