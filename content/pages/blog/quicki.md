@@ -19,13 +19,13 @@ layout: post
 
 I always find myself doing the same process at the start of a non-automated OSINT engagement, so I created a simple tool that gets you going quickly, and in the background, you can focus on what's important.
 
-The main features are:
+**The main features are:**
 
 *   Checks VPN is connected *OpenVPN*
 
-*   \*\*Checks burp **OR** zap proxy is running *127.0.0.1:8080*
+*   Checks burp **OR** zap proxy is running *127.0.0.1:8080*
 
-*   \**Uses amass and* crt\[.]sh \*to create a starter subdomain list
+*   *Uses amass and* crt\[.]sh \*to create a starter subdomain list
 
 *   Checks waybackmachine for more URLs
 
@@ -35,7 +35,7 @@ The main features are:
 
 *   Sweet ASCII art.
 
-Simple Install steps
+**Simple Install steps:**
 
 *   sudo apt install -y fish
 
@@ -48,3 +48,9 @@ Simple Install steps
 *   sudo apt install -y ruby && sudo gem install spidr && sudo gem install wayback_machine_downloader
 
 **fish wriggle.fish domaininquestion.com**
+
+[You can find the full install here: https://gitlab.com/interdiction\_/quicki](https://gitlab.com/interdiction\_/quicki) 
+
+![](/images/run.png)
+
+****
