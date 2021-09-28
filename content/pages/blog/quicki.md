@@ -36,7 +36,11 @@ The main features are:
 *   Sweet ASCII art.
 
 > sudo apt install -y fish
+>
 > fish
+>
 > curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
+>
 > fisher install laughedelic/fish_logo
+>
 > sudo apt install -y ruby && sudo gem install spidr && sudo gem install wayback_machine_downloader
