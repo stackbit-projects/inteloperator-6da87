@@ -15,9 +15,44 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+## ![](/images/main.png)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I always find myself doing the same process at the start of a non-automated OSINT engagement, so I created a simple tool that gets you going quickly, and in the background, you can focus on what's important.
 
-- Lorem ipsum
-- dolor sit amet
+The main features are:
+
+*   Checks VPN is connected *OpenVPN*
+
+*   **Checks burp **OR** zap proxy is running *127.0.0.1:8080*
+
+*   **Uses amass and* crt\[.]sh *to create a starter subdomain list
+
+*   Checks waybackmachine for more URLs
+
+*   Scrapes subdomains found to speed up your OSINT
+
+*   Sends all the data to burp **OR** zap; and
+
+*   Sweet ascii art.
+
+<!---->
+
+*   **
+
+
+
+*
+
+*   **
+
+*    **
+
+*    scrapes target
+
+*    waybackmachine url collection target
+
+*    sends all urls to burp
+
+*    sweet ascii art
+
+*
