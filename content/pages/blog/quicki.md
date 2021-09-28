@@ -1,6 +1,6 @@
 ---
 title: OSINT Quicki
-subtitle: lorem-ipsum
+subtitle: Makes the start of your OSINT just that little bit simpler and safer
 date: '2021-09-28'
 categories: []
 tags: []
