@@ -23,9 +23,9 @@ The main features are:
 
 *   Checks VPN is connected *OpenVPN*
 
-*   **Checks burp **OR** zap proxy is running *127.0.0.1:8080*
+*   \*\*Checks burp **OR** zap proxy is running *127.0.0.1:8080*
 
-*   **Uses amass and* crt\[.]sh *to create a starter subdomain list
+*   \**Uses amass and* crt\[.]sh \*to create a starter subdomain list
 
 *   Checks waybackmachine for more URLs
 
@@ -33,26 +33,4 @@ The main features are:
 
 *   Sends all the data to burp **OR** zap; and
 
-*   Sweet ascii art.
-
-<!---->
-
-*   **
-
-
-
-*
-
-*   **
-
-*    **
-
-*    scrapes target
-
-*    waybackmachine url collection target
-
-*    sends all urls to burp
-
-*    sweet ascii art
-
-*
+*   Sweet ASCII art.
