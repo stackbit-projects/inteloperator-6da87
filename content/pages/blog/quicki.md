@@ -4,7 +4,7 @@ subtitle: Makes the start of your OSINT just that little bit simpler and safer
 date: '2021-09-28'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: OSINT Quick Setup!
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
