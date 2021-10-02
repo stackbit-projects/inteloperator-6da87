@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Trawler Mcgee
 seo:
   title: ''
   description: ''
