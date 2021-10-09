@@ -17,25 +17,22 @@ layout: post
 ---
 ### A little gem! The Fish Shell https://fishshell.com/
 
-
 **TLDR; Simpler, faster stronger bash (no Kayne West)**
 
-****![](https://miro.medium.com/max/1400/1\*Pn8gIzc2TKWVhJiO3VUqVw.png)
-
+![](https://miro.medium.com/max/1400/1\*Pn8gIzc2TKWVhJiO3VUqVw.png)
 
 A few months ago I needed a shell scripting language that suited my needs, that needed to be:
 
-*    Faster than bash
+*   Faster than bash
 
-*    Less words to type
+*   Fewer words to type
 
-*    Compact functions, loops and variable statements
+*   Compact functions, loops and variable statements
 
-*    Tab autocomplete; and
+*   Tab autocomplete; and
 
-*    Make my life just that little bit easier (RSI).
+*   Make my life just that little bit easier (RSI).
 
->> So I found this gem, straight from the 90’s (not really); The Fish Shell
-
+> So I found this gem, straight from the 90’s (not really); The Fish Shell
 
 [https://inteloperator.medium.com](https://inteloperator.medium.com/like-shooting-fish-shell-in-a-barrel-30a75c9322ad)
