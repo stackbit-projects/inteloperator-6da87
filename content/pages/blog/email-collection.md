@@ -36,7 +36,22 @@ There are a few points I will be discussing here
 
 *   Writing your own tools to fill the gaps in your collection/analysis cycle.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### API
 
-*   Lorem ipsum
-*   dolor sit amet
+TBA
+
+### Handling Email
+
+TBA
+
+### Data Dumps
+
+TBA
+
+### Regex foo
+
+TBA
+
+### Tooling
+
+TBA
