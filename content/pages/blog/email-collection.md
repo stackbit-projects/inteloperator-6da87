@@ -4,7 +4,7 @@ subtitle: 'Finding emails at scale, with a focus on automation!'
 date: '2021-10-09'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: 'Finding emails at scale, with a focus on automation!'
 thumb_image_alt: lorem-ipsum
 image_alt: Code it!
 image_position: right
