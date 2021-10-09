@@ -7,7 +7,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: Code it!
-image_position: top
+image_position: right
 seo:
   title: ''
   description: ''
