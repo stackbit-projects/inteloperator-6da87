@@ -19,6 +19,22 @@ layout: post
 
 There are hundreds of posts regarding how to collect email accounts on an individual and/or company, but this post differs from the norm. We are going to focus on automation and structured outputs, that will enable us to provide consistent results!
 
+> ![](/images/pIcySymeHf7c9a521a-a37c-4027-8b86-c9281ef034b4-1633752525.png)
+
+The above image is representative of one of the tools I have written that scrapes a target website and extracts the emails from said site.
+
+There are a few points I will be discussing here
+
+*   API's and how useful/bad they can be
+
+*   Understanding how the web handles emails embedded on websites
+
+*   Data dumps and breaches
+
+*   Understanding how to get emails, regex etc
+
+*   Writing your own tools to fill the gaps in your collection/analysis cycle.
+
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 *   Lorem ipsum
