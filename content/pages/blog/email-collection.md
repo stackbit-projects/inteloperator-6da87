@@ -1,6 +1,6 @@
 ---
 title: Email Collection
-subtitle: lorem-ipsum
+subtitle: 'Finding those emails at scale, with automation'
 date: '2021-10-09'
 categories: []
 tags: []
