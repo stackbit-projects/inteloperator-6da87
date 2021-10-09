@@ -60,6 +60,12 @@ TBA
 
 TBA
 
+To collect email correctly you need to use regex! The regex's below should work for you, or checkout <https://regexr.com> 
+
+\[a-zA-Z0-9.\_%+-]+@\[a-zA-Z0-9.-]+.\[a-zA-Z]{2,4}
+
+\[a-zA-Z0-9.*%+-]+@\[a-zA-Z0-9.-]+.\[a-zA-Z]{2,4}(:|;|,)\[a-zA-Z0-9.*%+-@#\*)(!<>?\ &:]+
+
 ### Tooling
 
 > ![](/images/bGJ8FAUqlc0a14ffbe-d921-443d-9580-c3f8fc566394-1633756235.png)
