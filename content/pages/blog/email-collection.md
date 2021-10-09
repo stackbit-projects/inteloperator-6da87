@@ -15,9 +15,11 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+## So you wanna get some emails?
+
+There are hundreds of posts regarding how to collect email accounts on an individual and/or company, but this post differs from the norm. We are going to focus on automation and structured outputs, that will enable us to provide consistent results!
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
