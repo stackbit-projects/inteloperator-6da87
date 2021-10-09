@@ -18,6 +18,8 @@ image: /images/CzjaxAcPUB72fc35fe-b00b-4201-93c6-be2103228951-1633752753.png
 ---
 ## So you wanna get some emails?
 
+TLDR; Don't do what everyone else does, and create your own email collection pipeline.
+
 There are hundreds of posts regarding how to collect email accounts on an individual and/or company, but this post differs from the norm. We are going to focus on automation and structured outputs, that will enable us to provide consistent results!
 
 > ![](/images/pIcySymeHf7c9a521a-a37c-4027-8b86-c9281ef034b4-1633752525.png)
@@ -40,7 +42,7 @@ There are a few points I will be discussing here
 
 > ![](/images/pyPsunS1OZ662eb184-41da-4a5d-b37b-abc0a7846362-1633753072.png)
 
-TBA
+API's are a great resource for "known" email accounts at a specific DTG. API's also enable you to not touch the target infrastructure which is also good in some cases but hardly ever needed, as you should be using a VPN like IVPN or torsocks. Furthermore, API's have limits and do cost $$$ so you need to way up the cost/benefit analysis or create multiple accounts for the same site and rotate API keys.
 
 ### Handling Email
 
@@ -72,7 +74,7 @@ To collect emails you need to use regex! The regex's below should work for you, 
 
 So there are hundreds of tools out there that can scrape emails for you, but sometimes those tools don't fit into your process flow and in my case, they don't. So I created my own tooling, ruby based that will:
 
-*   Spider the target for all URLs
+*   Spidering the target sites for all URLs
 
 *   Scrape the site for emails
 
