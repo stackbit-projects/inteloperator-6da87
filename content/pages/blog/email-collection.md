@@ -14,6 +14,7 @@ seo:
   robots: []
   extra: []
 layout: post
+image: /images/CzjaxAcPUB72fc35fe-b00b-4201-93c6-be2103228951-1633752753.png
 ---
 ## So you wanna get some emails?
 
