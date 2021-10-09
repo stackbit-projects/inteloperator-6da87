@@ -46,7 +46,7 @@ TBA
 
 > ![](/images/FuIQW7k3z1fc48274f-6a25-46b8-aec6-7e53622be1f6-1633753262.png)
 
-TBA
+Understanding how websites protect emails is key to being able to write your own custom extractors. In the above image, there is a mailto:email@domain link, but the actual email is broken down into 3 parts with the first part being account, the domain is being excluded and the TLD is also broken out into a different code segment. So in this case a regex would work a treat (more on that later), but some open-source scanners wouldn't find this email account because it's not in the correct format and it's obfuscated via "security via obscurity!"
 
 ### Data Dumps
 
@@ -54,7 +54,7 @@ TBA
 
 Having your own source of breached data dumps can assist you in collecting the information you need. In windows, you can use a great tool "Agent Ransac" or in Unix, you can use yara-scanner. Yara rule link [here](https://ghostbin.com/R14DM/raw)
 
-
+![](/images/Gpvw4x3bJk023d9926-e1b6-43d1-bf62-d02f0baaf422-1633757430-96e67e7e.png)
 
 ### Regex foo
 
