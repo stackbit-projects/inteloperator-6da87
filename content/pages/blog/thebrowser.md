@@ -1,5 +1,5 @@
 ---
-title: The browsers best friend == you
+title: 'The browsers best friend == you OSINT[1]'
 date: '2021-09-19'
 categories: []
 tags: []
