@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Email Collection
 subtitle: lorem-ipsum
 date: '2021-10-09'
 categories: []
