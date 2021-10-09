@@ -1,5 +1,5 @@
 ---
-title: Email Collection
+title: 'Email Collection OSINT[2]'
 subtitle: 'Finding emails at scale, with a focus on automation!'
 date: '2021-10-09'
 categories: []
