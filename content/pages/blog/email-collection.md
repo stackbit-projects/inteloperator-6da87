@@ -62,4 +62,20 @@ TBA
 
 ### Tooling
 
-TBA
+> ![](/images/bGJ8FAUqlc0a14ffbe-d921-443d-9580-c3f8fc566394-1633756235.png)
+
+So there are hundreds of tools out there that can scrape emails for you, but sometimes those tools don't fit into your process flow and in my case, they don't. So I created my own tooling, ruby based that will:
+
+*   Spider the target for all URLs
+
+*   Scrape the site for emails
+
+*   Parse, dedupe and unique the emails; and finally
+
+*   Extract only the targets emails.
+
+So my main point here is that you either use someone else's tools and trust said tool to give you the outcomes you want or write your own tool that enables you to gather the information you need. Furthermore, choose the language that works for you and don't just become a sheep and follow the pack, make sure its works for you. E.g a lot of tooling is written in go or py, but that might not work for you!
+
+And then wella, your emails you asked for!
+
+> ![](/images/ENxGFaLYlN482ca377-b5af-4f02-b859-ee8f58eb5f63-1633756536.png)
