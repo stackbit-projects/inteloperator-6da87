@@ -52,15 +52,15 @@ TBA
 
 > ![](/images/QCzONHwZTBc655e02f-2f0a-46f1-9501-502a997ffc9d-1633753483.png)
 
-TBA
+Having your own source of breached data dumps can assist you in collecting the information you need. In windows, you can use a great tool "Agent Ransac" or in Unix, you can use yara-scanner. Yara rule link [here](https://ghostbin.com/R14DM/raw)
+
+
 
 ### Regex foo
 
 > ![](/images/RiajnUp3ur56c3991d-fcd9-4d28-a38e-4dd8a36fdf60-1633753566.png)
 
-TBA
-
-To collect email correctly you need to use regex! The regex's below should work for you, or checkout <https://regexr.com> 
+To collect emails you need to use regex! The regex's below should work for you, or check out <https://regexr.com> (or write your own!)
 
 \[a-zA-Z0-9.\_%+-]+@\[a-zA-Z0-9.-]+.\[a-zA-Z]{2,4}
 
